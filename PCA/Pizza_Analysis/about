@@ -1,0 +1,2 @@
+The dataset for this exercise is composed by 9 variables and 10 brands of pizza
+The task is to run a Principal Component Analysis (PCA) to remove collinearity between variables 
