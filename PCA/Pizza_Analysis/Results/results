@@ -1,0 +1,34 @@
+*------------------------------------------------------------*
+Summary of Exported Principal Components
+*------------------------------------------------------------*
+ 
+Total number of input variables: 6
+Maximum number cutoff of principal components: 6
+Cumulative proportional eigenvalue cutoff: 0.97
+Proportional eigenvalue increment cutoff: 0.001
+Number of the selected principal components: 3
+Total variation explained by the selected principal components: 0.9816618627
+
+The DMNEURL Procedure
+ 
+Variable            Mean       Std Dev
+ 
+STD_ash       2.6252E-11       1.00000
+STD_carb      -1.849E-11       1.00000
+STD_fat       3.7138E-11       1.00000
+STD_mois      -3.489E-11       1.00000
+STD_prot      -5.181E-11       1.00000
+STD_sodium    -1.491E-16       1.00000
+
+The DMNEURL Procedure
+ 
+              Eigenvalues of Correlation Matrix
+ 
+        Eigenvalue    Difference    Proportion    Cumulative
+ 
+   1    3.99805652    2.51132264        0.6663        0.6663
+   2    1.48673388    1.08155310        0.2478        0.9141
+   3    0.40518078    0.32249994        0.0675        0.9817
+   4    0.08268084    0.05534246        0.0138        0.9954
+   5    0.02733838    0.02732877        0.0046        1.0000
+   6    0.00000961                      0.0000        1.0000
