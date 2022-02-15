@@ -1,0 +1,19 @@
+Variable Importance
+ 
+                                 Number of    Number of
+                                 Splitting    Surrogate
+Variable Name           Label      Rules        Rules      Importance
+ 
+Flavanoids                           0            6          1.00000
+Color_Intensity                      1            5          0.97057
+Alcohol                              0            4          0.76495
+Proline                              2            1          0.73125
+Ash_Alcanity                         0            4          0.72585
+Total_Phenols                        1            2          0.72368
+OD280                                1            1          0.71842
+Proanthocyanins                      0            3          0.69875
+Hue                                  0            2          0.67326
+Magnesium                            0            2          0.61278
+Ash                                  2            1          0.55476
+Nonflavanoid_Phenols                 0            2          0.43590
+Malic_Acid                           0            2          0.39476
